@@ -1,0 +1,40 @@
+.mainBorder{
+    border: 15px solid white;
+    border-radius: 15px;
+    padding:55px;
+    margin:10px;
+    color: white;
+}
+.mainLink{
+    color:white;
+    text-decoration: underline;
+    
+}
+
+/* .mainBorder {
+    border: 2px solid white;
+    padding: 20px;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+  }
+   */
+  .linkContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: -130px; /* Adjust this value to position the link as desired */
+  }
+  
+  .mainLink {
+    color: white;
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .mainLink:hover {
+    background-color: #0056b3;
+    color:whitesmoke;
+  }
+  
