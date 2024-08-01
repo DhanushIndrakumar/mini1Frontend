@@ -37,4 +37,25 @@
   .user-table th {
     background-color: #444;
   }
+
+  .action-button.delete {
+    background-color: red;
+    margin-right: 3px;
+  }
+  
+  .action-button.update {
+    background-color: grey;
+    margin-right: 3px;
+    
+    
+  }
+  
+  .action-button.view {
+    background-color: green;
+    margin-right: 3px;
+  }
+  
+  .action-button:hover {
+    opacity: 0.8;
+  }
   
